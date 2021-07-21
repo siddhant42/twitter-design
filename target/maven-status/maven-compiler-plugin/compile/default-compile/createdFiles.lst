@@ -1,0 +1,6 @@
+design/twitter/entity/HashTag.class
+design/twitter/TwitterApplication.class
+design/twitter/entity/Retweet.class
+design/twitter/entity/Tweet.class
+design/twitter/entity/User.class
+design/twitter/entity/Reply.class
